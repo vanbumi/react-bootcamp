@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="img/react-redux.png" height="300" style="display: block; margin: auto; width: auto" >
+<img src="img/react-redux.png" height="300" style="display: block; margin: auto; width: 70%" >
 
 <br>
 
